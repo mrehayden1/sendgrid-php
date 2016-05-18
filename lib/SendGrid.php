@@ -12,8 +12,6 @@
   */
 namespace SendGrid;
 
-require dirname(__DIR__).'/vendor/autoload.php';
-
 /**
   * Interface to the SendGrid Web API
   */
